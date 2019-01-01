@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/QRCoder-master.zip"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-sources.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-tests.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/commons-codec-1.11-bin/commons-codec-1.11/commons-codec-1.11-test-sources.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/jpbc-2.0.0/jars/bcprov-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/jpbc-2.0.0/jars/jna-3.2.5.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/jpbc-2.0.0/jars/jpbc-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/jpbc-2.0.0/jars/jpbc-benchmark-2.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/jpbc-2.0.0/jars/jpbc-crypto-2.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/jpbc-2.0.0/jars/jpbc-mm-2.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/jpbc-2.0.0/jars/jpbc-pbc-2.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/Study/7/IS/Shamir-secretkeygeneration-and-aes/Shamir-secretkysplit/jpbc-2.0.0/jars/jpbc-plaf-2.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
