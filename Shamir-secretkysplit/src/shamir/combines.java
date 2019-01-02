@@ -1,7 +1,5 @@
 package shamir;
-
 import java.math.BigInteger;
-
 public class combines {
 	 static BigInteger primer = BigInteger.valueOf(172394); 
 	 private static BigInteger[] gcdD(BigInteger a, BigInteger b)
@@ -61,11 +59,10 @@ public class combines {
     }
     public static void combination(String [] args) {
     	
-    	SecretShare[] sharesToViewSecret = new SecretShare[] {shares[0],shares[1]}; // 0 & 1
+    	SecretShare[] sharesToViewSecret = new SecretShare[] {Shamir.shares[0],Shamir.shares[1]}; // 0 & 1
     	
     	BigInteger result = combine(sharesToViewSecret, primer);
     	System.out.println(result);
 
     }
-
 }

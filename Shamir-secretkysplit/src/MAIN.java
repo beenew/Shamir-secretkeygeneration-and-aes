@@ -34,6 +34,8 @@ public class MAIN {
 		String ffsharedec=m.dec(part1);
 		String cdsharedec=m.dec(part2);
 		
+		combines.combination(null);
+		
 
 	}
 

@@ -10,6 +10,8 @@ public int firefightersecret1=0;
 public int civildefensesecret=0;
 public static int secret1=0;
 public static int secret2=0;
+static SecretShare[] shares = new SecretShare[2];
+
     public static SecretShare[] split(final BigInteger secret, int needed, int available, BigInteger prime, Random random)
     {
         System.out.println("Prime Number: " + prime);
@@ -78,7 +80,7 @@ public static int secret2=0;
         primer = BigInteger.valueOf(172394); 
         // 2 - at least 2 secret parts are needed to view secret
         // 3 - there are 5 persons that get secret parts
-        final SecretShare[] shares = Shamir.split(secret, 2, 3, primer, random);
+        shares = Shamir.split(secret, 2, 3, primer, random);
 
        
         
